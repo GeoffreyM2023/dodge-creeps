@@ -1,5 +1,7 @@
 extends CanvasLayer
 
+# garbage comment
+
 signal start_game
 
 func show_message(text):
